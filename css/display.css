@@ -271,8 +271,8 @@ body {
 
 .player {
   background-image: url(https://cdn.discordapp.com/attachments/943806118700912660/943898154577821726/006.png);
-  width: 700px;
-  min-height: 400px;
+  width: 400px;
+  min-height: 450px;
   border-radius: 15px;
   padding: 30px;
   z-index: 2;
