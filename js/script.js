@@ -226,6 +226,36 @@ new Vue({
           url: "https://www.youtube.com/",
           favorited: false,
         },
+        {
+          name: "I.F.L.Y.",
+          artist: "Bazzi",
+          cover:
+            "https://cdn.discordapp.com/attachments/943806118700912660/944461596648964096/81HC2HywjbL.png",
+          source:
+            "https://cdn.discordapp.com/attachments/943824945169956915/944460756232060928/y2meta.com_-_Bazzi_-_I.F.L.Y._Official_Music_Video_320_kbps.mp33",
+          url: "https://www.youtube.com/",
+          favorited: false,
+        },
+        {
+          name: "Plastic",
+          artist: "Jaden",
+          cover:
+            "https://cdn.discordapp.com/attachments/943806118700912660/944461656568758272/71fJJQq2E4L.png",
+          source:
+            "https://cdn.discordapp.com/attachments/943824945169956915/944460756802474016/y2meta.com_-_Jaden_-_Plastic_320_kbps.mp3",
+          url: "https://www.youtube.com/",
+          favorited: false,
+        },
+        {
+          name: "Homemade_Dynamite",
+          artist: "Lorde_Feat._Khalid_Post_Malone",
+          cover:
+            "https://cdn.discordapp.com/attachments/943806118700912660/944461711535116308/game4v-chainsaw-man-17.png",
+          source:
+            "https://cdn.discordapp.com/attachments/943824945169956915/944460757318398002/y2meta.com_-_Lorde_-_Homemade_Dynamite_Feat._Khalid_Post_Malone__SZA_REMIX_256_kbps.mp3",
+          url: "https://www.youtube.com/",
+          favorited: false,
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
