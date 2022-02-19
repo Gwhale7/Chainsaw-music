@@ -232,7 +232,7 @@ new Vue({
           cover:
             "https://cdn.discordapp.com/attachments/943806118700912660/944461596648964096/81HC2HywjbL.png",
           source:
-            "https://cdn.discordapp.com/attachments/943824945169956915/944460756232060928/y2meta.com_-_Bazzi_-_I.F.L.Y._Official_Music_Video_320_kbps.mp33",
+            "https://cdn.discordapp.com/attachments/943824945169956915/944460756232060928/y2meta.com_-_Bazzi_-_I.F.L.Y._Official_Music_Video_320_kbps.mp3",
           url: "https://www.youtube.com/",
           favorited: false,
         },
